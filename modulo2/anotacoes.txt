@@ -1,2 +1,75 @@
 cores
 
+cículo cromático
+harmonia
+simetria
+
+cores primárias: trângulo equilátero no círculo cromático 
+amarelo
+azul
+vermelho 
+têm harmonia grosseira entre si
+
+cores secundárias: formam triângulo  equilátero de cabeca para baixo 
+verde
+laranja
+violeta
+têm harmonia grosseira entre si
+
+cores terciárias: todas as oitras que säo mistura das primárias com a secundárias
+nome formado pelas cores primária e secundária, nesta ordem
+amarelo-esverdeado
+amarelo-alaranjado
+vermelho-alaranjado ->laranja bem escuro
+vermelho-arroxeado
+azul-arroxeado
+azul-esverdeado
+formam tons pasteis
+
+temperatura das cores
+esquerda: cores frias
+direita: cores quentes
+as cores quentes säo análogas, formam harmonia entre si
+mesma coisa as cores quentes
+
+paleta de cores do site: muito importante
+sempre parte de uma cor principal
+geralmente tem de 3 a 5 cores no máximo, sem contar branco e preto
+
+utilizar a cor primária do logo como cor principal 
+
+
+cores complementares:  apresentam maior contraste entre si
+reta transversal no cículo cromático 
+violeta e amarelo
+vermelho e verde
+azul e laranja
+
+cores análogas: näo tem muito contraste mas säo perseptíveis
+as duas cores vizinhas
+ex: violeta + azul-arroxeado e vermelho-arroxeado
+
+técnica muito usada: 3 cores análogas mais uma complementar
+
+cores análogas relacionadas
+duas cores vizinhas, pula uma e pega uma terceira
+outra técnica muito usada
+
+cores intercaladas
+escolhe três intercaladas 
+fica uma palheta dura
+
+cores triádicas
+pega três pulando duas em duas
+
+cores em quadrado
+quatro cores pulando de duas em duas
+cores forte e balanceadas
+
+cores tetrádicas
+dois pares de cores complementares 
+
+monocromia
+uma só cor, modifica saturacäo e brilho para formar as outras
+efeito degradê
+
