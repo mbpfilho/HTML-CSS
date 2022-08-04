@@ -57,7 +57,7 @@ outra técnica muito usada
 
 cores intercaladas
 escolhe três intercaladas 
-fica uma palheta dura
+fica uma paleta dura
 
 cores triádicas
 pega três pulando duas em duas
@@ -73,3 +73,10 @@ monocromia
 uma só cor, modifica saturacäo e brilho para formar as outras
 efeito degradê
 
+site para criar paleta https://color.adobe.com/create/color-wheel
+
+paletas prontas para escolher https://color.adobe.com/explore
+
+paletas prontas para escolher https://coolors.co/palettes/trending
+
+degradê-gradientes
