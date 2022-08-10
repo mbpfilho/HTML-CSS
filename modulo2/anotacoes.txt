@@ -91,3 +91,5 @@ peso->mais magrinha ou mais gordinha
 shorthand font - para fonte 
 font: font-style->font-weight->font-size->font-family
 
+alinhamento
+
