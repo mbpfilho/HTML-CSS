@@ -82,3 +82,12 @@ paletas prontas para escolher https://coolors.co/palettes/trending
 degradê-gradientes
 
 tipografia
+
+tamanha: recomendacäo da W3C: px e em
+16px normalmente é o tamanho default = 1em
+
+peso->mais magrinha ou mais gordinha
+
+shorthand font - para fonte 
+font: font-style->font-weight->font-size->font-family
+
