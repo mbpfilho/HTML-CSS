@@ -93,6 +93,13 @@ font: font-style->font-weight->font-size->font-family
 
 alinhamento
 
-pseudo-classes
-: relacionadas ao estdo de um elemento ou uma classe
+seletores personalizados
 
+pseudo-classes
+: relacionadas ao estado de um elemento ou uma classe
+
+pseudo-elemento
+:: 
+
+children
+>
