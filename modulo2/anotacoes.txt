@@ -103,3 +103,22 @@ pseudo-elemento
 
 children
 >
+
+modelo de caixas - box model 
+height
+wudth
+border 
+padding 
+margin 
+outline 
+
+tipos de caixa 
+    box-level - display: block 
+        sempre inicia nova caixa numa linha nova 
+        ocupa toda a largura da tela
+        exs: div h1 h2... p main header nav article aside footer form video
+    inline-level - display: inline
+        näo cria nova linha 
+        ocupa somente a largura necessária
+        continua na mesma linha
+        exs: span a code small strong em sup sub label button input select
