@@ -122,3 +122,5 @@ tipos de caixa
         ocupa somente a largura necessária
         continua na mesma linha
         exs: span a code small strong em sup sub label button input select
+
+    display: inline-block - inline com caracteristicas de block
