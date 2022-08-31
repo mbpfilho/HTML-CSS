@@ -124,3 +124,7 @@ tipos de caixa
         exs: span a code small strong em sup sub label button input select
 
     display: inline-block - inline com caracteristicas de block
+
+grouping tags - agrupar tags
+<span> inline-level
+<div> box-level
