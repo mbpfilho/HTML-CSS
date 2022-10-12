@@ -130,3 +130,16 @@ grouping tags - agrupar tags
 <div> box-level
 
 git
+
+tabelas 
+
+hierarquia de tabelas simples:
+table
+    table row 
+        table header
+        table data
+
+</td> e </tr> säo opcionais
+
+se hierarquia näo for obedecida o dado vai para fora da tabela 
+
