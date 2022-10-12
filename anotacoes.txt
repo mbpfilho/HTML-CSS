@@ -146,3 +146,12 @@ se hierarquia näo for obedecida o dado vai para fora da tabela
 alinhamento horizontal text-align 
 alinhamento vertical vertical-align 
 
+anatomia para tabelas grandes: 
+table
+    caption
+    thead 
+        tr, td, th
+    tbody 
+        tr, td, th
+    tfoot 
+        tr, td, th
