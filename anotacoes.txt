@@ -143,3 +143,6 @@ table
 
 se hierarquia näo for obedecida o dado vai para fora da tabela 
 
+alinhamento horizontal text-align 
+alinhamento vertical vertical-align 
+
