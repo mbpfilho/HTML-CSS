@@ -155,3 +155,9 @@ table
         tr, td, th
     tfoot 
         tr, td, th
+
+trabalhar com colunas
+<colgroup>
+    <col class ou id>
+
+
