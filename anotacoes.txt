@@ -161,3 +161,17 @@ trabalhar com colunas
     <col class ou id>
 
 
+iframe padrao 300px X 150px
+css iframe{} é soberana, sobrepoe as especificacöes da tag
+
+Bom dia.
+
+Depois de assistido um vídeo e clicado "clicar aqui para marcar como copncluído", vem uma tela de erro com a mensagem:
+
+Desculpe, você não tem permissão para prosseguir
+Your request looks suspiciously similar to automated requests from spam posting software or it has been denied by a security policy configured by the website administrator.
+
+If you believe you should be able to perform this request, please let us know.
+
+RID: BZR2P7DJOD1UIJK5AX3CGASV
+
