@@ -175,3 +175,6 @@ If you believe you should be able to perform this request, please let us know.
 
 RID: BZR2P7DJOD1UIJK5AX3CGASV
 
+ sandbox="sandbox" bloqueia envio de informacöes pelo ite dentro do iframe 
+
+ referrerpolicy="no-referrer" site dentro do iframe näo pode coletar nenhuma informacäo do usuário
